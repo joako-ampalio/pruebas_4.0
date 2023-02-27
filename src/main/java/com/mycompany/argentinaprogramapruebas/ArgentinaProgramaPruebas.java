@@ -12,6 +12,10 @@ public class ArgentinaProgramaPruebas {
         int next = sc.nextInt();
         System.out.println(next);
         
+        
+        for (int num1 =0; num1<10; num1++){
+            System.out.println("buenas");
+        }
       
     }
 }
